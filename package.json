@@ -3,7 +3,7 @@
     "scripts": {
         "dev": "mix",
         "watch": "mix watch",
-        "prod": "mix --production && mv build_production docs"
+        "prod": "rm -fr build_production && rm -fr docs && mix --production && mv build_production/ docs && cp CNAME docs/CNAME"
     },
     "devDependencies": {
         "axios": "^0.21.1",
