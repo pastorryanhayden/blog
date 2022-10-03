@@ -47,4 +47,5 @@ pagination:
             @endif
         </nav>
     @endif
+    @include('_components.newsletter-signup')
 @stop

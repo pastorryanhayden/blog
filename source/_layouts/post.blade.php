@@ -44,6 +44,7 @@
             @endif
         </div>
     </nav>
+    @include('_components.newsletter-signup')
     <script>talkyardServerUrl='https://site-1f97zwdm3a.talkyard.net';</script>
 <script async defer src="https://c1.ty-cdn.net/-/talkyard-comments.min.js"></script>
 <!-- You can specify a per page discussion id on the next line, if your URLs might change. -->
@@ -52,4 +53,5 @@
 <p style="margin-top: 25px; opacity: 0.9; font-size: 96%">Comments powered by
 <a href="https://www.talkyard.io">Talkyard</a>.</p>
 </div>
+
 @endsection
