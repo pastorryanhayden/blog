@@ -3,7 +3,7 @@
     <title>Ryan Hayden</title>
     <link href="https://pastorryanhayden.com/blog" />
     <link type="application/atom+xml" rel="self" href="https://pastorryanhayden.com/blog/feed.atom" />
-    <updated>2022-10-03T19:15:07+00:00</updated>
+    <updated>2022-10-03T19:16:23+00:00</updated>
     <id>https://pastorryanhayden.com/blog/feed.atom</id>
     <author>
         <name>Ryan Hayden</name>
@@ -1519,95 +1519,6 @@ First, I understand why missionary videos are popular:
 <p>It bothers me to think that some young couple out there right now is trying to get to the mission field, and they are going to spend five thousand dollars for a videographer to make a compelling and professional video.  It bothers me more that missionaries on the field feel like they need to spend their hard earned time or scant resources producing a video.   It bothers me most that this has become the expectation of many churches.</p>
 
 <p>Let's make this missionary video thing go the way of the dinosaur.</p>
-    ]]></content>
-</entry>
-            <entry>
-    <id>https://pastorryanhayden.com/blog/custom-404-page</id>
-    <link type="text/html" rel="alternate" href="https://pastorryanhayden.com/blog/custom-404-page" />
-    <title>Custom 404 Pages</title>
-    <published>2018-12-23T00:00:00+00:00</published>
-    <updated>2018-12-23T00:00:00+00:00</updated>
-    <author>
-        <name>Ryan Hayden</name>
-    </author>
-    <summary type="html">This starter template includes a custom 404 Not Found error page, located at &lt;code&gt;/source/404.blade.php&lt;/code&gt;. To preview the 404 page, you can visit &lt;code&gt;/404&lt;/code&gt; in your browser.
-
-
-
-
-
-Depending on where your site is hosted, you may need to......</summary>
-    <content type="html"><![CDATA[
-        <p>This starter template includes a custom <strong>404 Not Found</strong> error page, located at <code>/source/404.blade.php</code>. <a href="/404">To preview the 404 page</a>, you can visit <code>/404</code> in your browser.</p>
-
-<pre><code class="language-html">&lt;!-- source/404.blade.php --&gt;
-
-@extends('_layouts.main')
-
-@section('body')
-    &lt;div class="flex flex-col items-center text-gray-700 mt-32"&gt;
-        &lt;h1 class="text-6xl font-light leading-none mb-2"&gt;404&lt;/h1&gt;
-
-        &lt;h2 class="text-3xl"&gt;Page not found.&lt;/h2&gt;
-
-        &lt;hr class="block w-full max-w-sm mx-auto border my-8"&gt;
-
-        &lt;p class="text-xl"&gt;
-            Need to update this page? See the &lt;a title="404 Page Documentation" href="https://jigsaw.tighten.co/docs/custom-404-page/"&gt;Jigsaw documentation&lt;/a&gt;.
-        &lt;/p&gt;
-    &lt;/div&gt;
-@endsection
-</code></pre>
-
-<hr />
-
-<p>Depending on where your site is hosted, you may need to configure your server to use the custom 404 page. For more details, visit the <a href="https://jigsaw.tighten.co/docs/custom-404-page/">Jigsaw documentation about configuring a custom 404 page</a>.</p>
-    ]]></content>
-</entry>
-            <entry>
-    <id>https://pastorryanhayden.com/blog/mailchimp-newsletters</id>
-    <link type="text/html" rel="alternate" href="https://pastorryanhayden.com/blog/mailchimp-newsletters" />
-    <title>Mailchimp Newsletters</title>
-    <published>2018-11-21T00:00:00+00:00</published>
-    <updated>2018-11-21T00:00:00+00:00</updated>
-    <author>
-        <name>Ryan Hayden</name>
-    </author>
-    <summary type="html">Mailchimp is a fantastic marketing platform, and takes the pain out of managing email lists and campaigns. The blog starter template comes with a beautiful pre-built newsletter form, that only needs a Mailchimp list URL to send to.
-
-To begin accepting......</summary>
-    <content type="html"><![CDATA[
-        <p><a href="https://mailchimp.com/">Mailchimp</a> is a fantastic marketing platform, and takes the pain out of managing email lists and campaigns. The blog starter template comes with a beautiful pre-built newsletter form, that only needs a Mailchimp list URL to send to.</p>
-
-<p>To begin accepting subscribers, simply add your list URL to the form <code>action</code> in the <code>source/_components/newsletter-signup.blade.php</code> file.</p>
-
-<pre><code class="language-html">&lt;!-- source/_components/newsletter-signup.blade.php --&gt;
-
-&lt;div id="mc_embed_signup"&gt;
-    &lt;form action="https://your-mail-chimp-list-manage-url" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate&gt;
-        &lt;div id="mc_embed_signup_scroll"&gt;
-            &lt;h2&gt;Sign up for newsletter&lt;/h2&gt;
-            &lt;div class="mc-field-group"&gt;
-                &lt;label for="mce-EMAIL"&gt;Email Address &lt;/label&gt;
-                &lt;input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email address"&gt;
-            &lt;/div&gt;
-            &lt;div id="mce-responses" class="clear"&gt;
-                &lt;div class="response" id="mce-error-response" style="display:none"&gt;&lt;/div&gt;
-                &lt;div class="response" id="mce-success-response" style="display:none"&gt;&lt;/div&gt;
-            &lt;/div&gt;    &lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;
-
-            &lt;div style="position: absolute; left: -5000px;" aria-hidden="true"&gt;&lt;input type="text" name="b_25582686a9fc051afd5453557_189578c854" tabindex="-1" value=""&gt;&lt;/div&gt;
-            &lt;div class="clear"&gt;&lt;input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/form&gt;
-&lt;/div&gt;
-</code></pre>
-
-<h3>Example</h3>
-
-<p><img src="/assets/img/newsletter.png"></p>
-
-<p><a href="https://mailchimp.com/help/host-your-own-signup-forms/#Edit_your_Custom_Signup_Form">See how to get your Mailchimp list URL.</a></p>
     ]]></content>
 </entry>
     </feed>
