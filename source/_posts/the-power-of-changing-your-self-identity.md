@@ -64,23 +64,17 @@ It's like those weird balls you played with in PE class that had a tail.  Your i
 This isn't some new-age psychobabble - this is the core message of the New Testament regarding how we change our behavior.
 
 <blockquote class="bible"> 
-> Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord.
-> 
-> 
-  [Romans 6:11 - KJV](https://bible-api.com/Romans+6:11?translation=kjv)
+Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord.
+<cite>Romans 6:11</cite>  
 </blockquote>
 
 <blockquote class="bible"> 
-> That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;
-> 
-> 
-  [Ephesians 4:22 - KJV](https://bible-api.com/Eph+4:22?translation=kjv)
+That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;
+<cite>Ephesians 4:22</cite>
 </blockquote>
 <blockquote class="bible"> 
-> Lie not one to another, seeing that ye have put off the old man with his deeds;
-> 
-> 
-  [Colossians 3:9 - KJV](https://bible-api.com/Col+3:9?translation=kjv)
+Lie not one to another, seeing that ye have put off the old man with his deeds;
+<cite>Colossians 3:9</cite>
 </blockquote>
 When you change your identity.  When you reckon yourselves dead to sin.  When put on the new man.  Then your behavior will follow that change like the tail follows the ball.
 

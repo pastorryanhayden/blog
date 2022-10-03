@@ -26,28 +26,28 @@ So, the Gnostics were a group of ancients that basically believed two things:
 During the early church years, they infiltrated Christian churches and started teaching that Christ did not have a body (because bodies are bad) and that only through there secret teaching and spiritual experiences could true Christian enlightenment be reached.  This is why John said things like:
 
 <blockquote class="bible"> 
-> And every spirit that confesseth not that Jesus Christ is come in the flesh is not of God: and this is that
->spirit of antichrist, whereof ye have heard that it should come; and even now already is it in the world. 
-> 
-  [1 John 4:3 - KJV](https://bible-api.com/1John+4:3?translation=kjv)
+And every spirit that confesseth not that Jesus Christ is come in the flesh is not of God: and this is that
+spirit of antichrist, whereof ye have heard that it should come; and even now already is it in the world. 
+ 
+<cite>1 John 4:3</cite>
 </blockquote>
 
 If you've ever wondered why there is such an emphasis on Christ coming *in the flesh* it is because they were fighting against this particular heresy.  Of course, if the material world is bad, then the enjoyment of the material world is bad too, which is probably why Paul warned about false teachers who would do things like:
 
 <blockquote class="bible"> 
-> Forbidding to marry,
->and commanding to abstain from meats, which God hath created to be received with thanksgiving of them which believe and know the truth. 
-> 
-  [1 Timothy 4:3 - KJV](https://bible-api.com/1Tim+4:3?translation=kjv)
+Forbidding to marry,
+and commanding to abstain from meats, which God hath created to be received with thanksgiving of them which believe and know the truth. 
+ 
+<cite>1 Timothy 4:3</cite>
 </blockquote>
 
 And why Paul emphasised things like this:
 
 <blockquote class="bible"> 
-> For every creature of God
->is good, and nothing to be refused, if it be received with thanksgiving: 
-> 
-  [1 Timothy 4:4 - KJV](https://bible-api.com/1Tim+4:4?translation=kjv)
+For every creature of God
+is good, and nothing to be refused, if it be received with thanksgiving: 
+ 
+<cite>1 Timothy 4:4</cite>
 </blockquote>
 
 Because the goodness of the material world was under attack by these heretics who believed that the material was bad and the spiritual was good.
@@ -77,10 +77,10 @@ I think there are legitimate arguments to be made against using contemporary mus
 Do you know what else appeals to my flesh?  Marriage appeals to my flesh.  God designed it to appeal to my flesh and calls it "a good thing" and "honourable" in multiple passages. 
 
 <blockquote class="bible"> 
-> Marriage
->is honourable in all, and the bed undefiled: but whoremongers and adulterers God will judge. 
-> 
-  [Hebrews 13:4 - KJV](https://bible-api.com/Hebrews+13:4?translation=kjv)
+Marriage
+is honourable in all, and the bed undefiled: but whoremongers and adulterers God will judge. 
+ 
+<cite>Hebrews 13:4</cite>
 </blockquote>
 God designed our sexual desires to create families and strengthen our marriages.  But if we have a gnostic view of the world and our bodies, we can be made to feel guilty for things God called very good and wholesome.
 

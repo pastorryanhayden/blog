@@ -70,10 +70,8 @@ We flipped out.  We couldn't get any doctor on the phone Wednesday or Thursday. 
 For two days, I've been trying to remind myself that God is in control, and that whatever His plans for us, He knows what He is doing and He is always good.  I've been trying to do what 1 Peter 5:7 says:
 
 <blockquote class="bible"> 
-> Casting all your care upon him; for he careth for you.
-> 
-> 
-  [1 Peter 5:7 - KJV](https://bible-api.com/1Peter+5:7?translation=kjv)
+Casting all your care upon him; for he careth for you.
+<cite>1 Peter 5:7</cite>
 </blockquote>
 
 I've tried to work and do things just as I normally would, and to not worry about this.  

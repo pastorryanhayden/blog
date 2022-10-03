@@ -72,12 +72,10 @@ Some of these ladies know the Bible better than me.  Not one of them is even a b
 So here is my take, given the fact that the Bible clearly teaches distinction and modesty in dress, and given the fact that our historical moment has made such a complicated mess of that, and given the fact that "what pertains to a man" depends a lot on where and when you were born and what your momma wore around the house - I fall back on this passage:
 
 <blockquote class="bible"> 
-> Let not him that eateth despise him that eateth not; and let not him which eateth not judge him that eateth: for God hath received him.
->Who art thou that judgest another man’s servant? to his own master he standeth or falleth. Yea, he shall be holden up: for God is able to make him stand.
-> 
-> 
-  [Romans 14:3-4 - KJV](https://bible-api.com/Romans+14:3-4?translation=kjv)
-</blockquote>
+Let not him that eateth despise him that eateth not; and let not him which eateth not judge him that eateth: for God hath received him.
+Who art thou that judgest another man’s servant? to his own master he standeth or falleth. Yea, he shall be holden up: for God is able to make him stand.
+<cite>Romans 14:3-4</cite></blockquote>
+
 I'm not going to say that someone who lived in the 60s or 70s who was on the front lines of the culture war and who preached against women wearing pants was wrong.  I'm going to be understanding of the people in my church who hold that standard for themselves.  But personally, it's not how I'm going to live out the Bibles principles in my own family and with my own daughters.
 
 > Let every man be fully persuaded in his own mind.
@@ -85,10 +83,10 @@ I'm not going to say that someone who lived in the 60s or 70s who was on the fro
 In my mind, when God's word says...
 
 <blockquote class="bible"> 
-> The woman shall not wear that which pertaineth unto a man, neither shall a man put on a woman’s garment: for all that do so
->are abomination unto the LORD thy God. 
-> 
-  [Deuteronomy 22:5 - KJV](https://bible-api.com/Deut+22:5?translation=kjv)
+The woman shall not wear that which pertaineth unto a man, neither shall a man put on a woman’s garment: for all that do so
+are abomination unto the LORD thy God. 
+ 
+<cite>Deuteronomy 22:5</cite>
 </blockquote>
 
 ...it makes a whole lot more sense that the "abomination" was referring to people like Bruce Jenner or Ellen Page, or to the small army of gender-bending 20 something copycats stocking shelves at my Walmart - than my twelve year old daughter's floral print jeans, but if you want to disagree, that's between you and God, we are still brothers (or sisters) in Christ.  
@@ -102,11 +100,11 @@ There are those who say this is a slippery slope, that to throw out this standar
 At the same time, I've known many Christians that put this issue up there in importance with the salvation by grace through faith.  I've heard heartbreaking stories from more than one godly friend who was cut off from their family over this issue.  And to be honest, I know a lot of judgmental, somewhat ignorant people who use this issue as a crutch for their self-righteousness, and I've known more than a few of these people to end up in jail for sexual perversion.
 
 <blockquote class="bible"> 
-> Unto the pure all things
->are pure: but unto them that are defiled and unbelieving
+Unto the pure all things
+are pure: but unto them that are defiled and unbelieving
 is nothing pure; but even their mind and conscience is defiled. 
-> 
-  [Titus 1:15 - KJV](https://bible-api.com/Titus+1:15?translation=kjv)
+ 
+<cite>Titus 1:15</cite>
 </blockquote>
 
 So I'm not thinking about pants.  It's not even on my radar.  I'll respect any position you take on it, so long as you do it honestly and respect my ability to do the same.
