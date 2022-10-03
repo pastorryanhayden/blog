@@ -4,7 +4,7 @@ title: Against Missionary Videos
 date: 2022-08-24
 extends: _layouts.post
 section: content
-categories: [missions, tech]
+categories: [missions, tech, churchlife]
 ---
 
 ![](/assets/img/avel-chuklanov-6ePuSf5Wago-unsplash-2.jpg)
@@ -76,6 +76,3 @@ Also, I acknowledge that materials and slides are a necessary evil.  Whether we 
 It bothers me to think that some young couple out there right now is trying to get to the mission field, and they are going to spend five thousand dollars for a videographer to make a compelling and professional video.  It bothers me more that missionaries on the field feel like they need to spend their hard earned time or scant resources producing a video.   It bothers me most that this has become the expectation of many churches. 
 
 Let's make this missionary video thing go the way of the dinosaur.  
-
-#missions #churchlife
-

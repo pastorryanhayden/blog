@@ -70,7 +70,7 @@ If that book is really good, I'll sometimes buy the kindle version too, so I can
 
 ## 6. Take smart notes.
 
-Every preacher or writer should have a note system where they track and digest what they are reading.  I highly recommend you read the books [[How to Take Smart Notes]] by Sönke Ahrens and [[Building a Second Brain]] by Tiago Forte.  In my case, I use an app called [Obsidian](https://obsidian.md) as my second brain.  
+Every preacher or writer should have a note system where they track and digest what they are reading.  I highly recommend you read the books [How to Take Smart Notes](https://www.amazon.com/How-Take-Smart-Notes-Nonfiction/dp/B09HSSFCPR/ref=sr_1_1?keywords=how+to+take+smart+notes+sönke+ahrens&qid=1664799969&qu=eyJxc2MiOiIyLjcyIiwicXNhIjoiMi41MyIsInFzcCI6IjIuNTcifQ%3D%3D&sprefix=how+to+take+sma%2Caps%2C128&sr=8-1) by Sönke Ahrens and [Building a Second Brain](https://www.amazon.com/Building-Second-Brain-Organize-Potential-ebook/dp/B09LVVN9L3/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1664799998&sr=1-1) by Tiago Forte.  In my case, I use an app called [Obsidian](https://obsidian.md) as my second brain.  
 
 ![](/assets/img/CleanShot 2022-09-02 at 08.39.00.png)
 

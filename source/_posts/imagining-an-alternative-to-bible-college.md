@@ -1,13 +1,13 @@
 ---
 title: Imagining An Alternative to Bible College 
-date: 2022-09-22
+date: 2022-09-23
 description: what local church bible training could look like
 extends: _layouts.post
 section: content
 categories: [bible-college, churchlife, ministry]
 ---
 
-In my last post, I talked about the [[Whats wrong and right about Bible college, and some tips for going | problems with Bible College]], and why I was glad I went there.  In this post, I want to **lay out an alternative** based on the conversations I've been having with other pastors and Christians and on the changing nature of ministry.
+In my last post, I talked about the [problems with Bible College](https://pastorryanhayden.com/blog/whats-wrong-and-right-about-bible-college-and-some-tips-for-going/), and why I was glad I went there.  In this post, I want to **lay out an alternative** based on the conversations I've been having with other pastors and Christians and on the changing nature of ministry.
 
 **There are no Bible colleges in the Bible.**  The closest thing is the school of the prophets in 1 and 2 Kings, but nothing like Bible college is mentioned, never mind prescribed, in the New Testament.
 
