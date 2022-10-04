@@ -16,6 +16,10 @@ return [
             'sort' => '-date',
             'path' => 'blog/{filename}',
         ],
+        'sermons' => [
+          'path' => 'sermons/{filename}',
+          'sort' => '-date',
+        ],
         'categories' => [
             'path' => '/blog/categories/{filename}',
             'posts' => function ($page, $allPosts) {
