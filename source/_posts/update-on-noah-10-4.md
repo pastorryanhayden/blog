@@ -8,7 +8,7 @@ categories: [personal, noah, health, prayer-request]
 
 Noah had a biopsy on his kidney today at St. Louis Children's Hospital.  We stayed in St. Louis overnight and reported to the hospital this morning at 8:30am.
 
-![](/assets/img/hospital_gown.jpeg)
+![](/assets/img/hosptial_gown.jpeg)
 
 When he got into his pre-op room, they put him in the hospital pajamas.  Apparently, they only make them in like two sizes: huge and tiny.  He's wearing the tiny ones.
 
