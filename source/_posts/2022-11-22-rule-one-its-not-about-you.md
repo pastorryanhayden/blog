@@ -23,7 +23,7 @@ The point is Christ.  The point is the *unfolding drama of redemption.*  The poi
 
 You, as the preacher, don't play the central role in that - Christ does.  The Holy Spirit does.  The Bible does.  You are just the herald, reading with enthusiasm the good news someone else wrote up for you. 
 
-To borrow my favorite illustration from John MacArthur: You are not the chef. You are certainly not the meal. **You are the waiter.**  No one cares about the waiter.  The waiter does his job and then the waiter disappears.  You want the waiter faithfully serves you your food and you want the waiter to not mess with it in transit and then you want the check.  You didn't come to the restaurant excited about what the waiter was going to do to your food and you didn't come hoping to have a conversation with the waiter.
+To borrow my favorite illustration from John MacArthur: You are not the chef. You are certainly not the meal. **You are the waiter.**  No one cares about the waiter.  The waiter does his job and then the waiter disappears.  You want the waiter to faithfully serve you your food and then you want the check.  You didn't come to the restaurant excited about the waiter - you came excited about the meal.  
 
 **As soon as it becomes about you then you've lost the plot.**  There are far more glorious things on the table, and you are a distraction.  There is a word that is alive and can change people, and you are in the way.  Make much of Christ.  Make much of God's word.  Make yourself forgettable.
 
