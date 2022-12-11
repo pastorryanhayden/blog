@@ -11,8 +11,8 @@
     <description>{{ $post->description }}</description>
     <author>Ryan Hayden</author>
     <pubDate>{{$post->date}}</pubDate>
-    <link>https://pastorryanhayden.com{{ $post->getUrl() }}</link>
-    <guid>https://pastorryanhayden.com{{ $post->getUrl() }}</guid>
+    <link>{{ $post->getUrl() }}</link>
+    <guid>{{ $post->getUrl() }}</guid>
   </item>
   @endforeach
 </rss>	
