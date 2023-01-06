@@ -2,7 +2,7 @@
   <channel>
     <title>pastorryanhayden.com</title>
     <link>https://pastorryanhayden.com</link>
-    <description>Thoughts and musings by Ryan Hayden, pastor at Bible Baptist Church in Mattoon, IL.  I'm the father of five.  A former technical director and cofounder of a software company.  I write about church, life and technology.
+    <description>Thoughts and musings by Ryan Hayden, pastor at Bible Baptist Church in Mattoon, IL.  I'm the father of five.  A former technical director and cofounder of a software company.  I write about church, life and technology. 
     </description>
   </channel>
 @foreach($posts as $post)

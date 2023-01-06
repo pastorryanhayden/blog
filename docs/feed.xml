@@ -2,10 +2,18 @@
   <channel>
     <title>pastorryanhayden.com</title>
     <link>https://pastorryanhayden.com</link>
-    <description>Thoughts and musings by Ryan Hayden, pastor at Bible Baptist Church in Mattoon, IL.  I'm the father of five.  A former technical director and cofounder of a software company.  I write about church, life and technology.
+    <description>Thoughts and musings by Ryan Hayden, pastor at Bible Baptist Church in Mattoon, IL.  I'm the father of five.  A former technical director and cofounder of a software company.  I write about church, life and technology. 
     </description>
   </channel>
   <item>
+    <title>Rules for preaching: keep it sacred</title>
+    <description>Why your sermon should needs a sense of seriousness.</description>
+    <author>Ryan Hayden</author>
+    <pubDate>1672963200</pubDate>
+    <link>https://pastorryanhayden.com/blog/2023-01-06-preaching-rule-3</link>
+    <guid>https://pastorryanhayden.com/blog/2023-01-06-preaching-rule-3</guid>
+  </item>
+    <item>
     <title>The Flu This Year Is No Joke</title>
     <description>Seriously not fun.</description>
     <author>Ryan Hayden</author>
