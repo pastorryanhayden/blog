@@ -49,11 +49,11 @@ Another thing that shows a lack of serious in preaching is...
 
 The shortest distance between two points is a straight line.  As a preacher, you should have a message to deliver.  That message is a serious message.  It is an important message.  You want to get to that message as quickly as possible.
 
-Imagine you are driving your wife to the hospital to deliver a child.  There is a sense of urgency there.  You aren't going to take three detours along the way.  You aren't going to pull over to show her the new restaurant coming into town.  You aren't going to cut back through a neighborhood to show her that house you lived in in third grade.  You are going to GET HER TO THE HOSPITAL.
+Imagine you are driving your wife to the hospital to deliver a child.  There is a sense of urgency there.  You aren't going to take three detours along the way.  You aren't going to pull over to show her the new restaurant coming into town.  You aren't going to backtrack through a neighborhood to show her that house you lived in in third grade.  You are going to GET HER TO THE HOSPITAL.
 
 I think when we are preaching we ought to have a similar sense of urgency about delivering our message.  Either it is something people need to hear or it isn't.  But if it is something people need to hear, then get to the message.  Don't take people on fifteen rabbit trails.  Get to the message.  The seriousness of your message demands that you don't ramble.
 
-Every story should serve your point.  Every detour should get you where you are trying to go.  A good rule of thumb is, if you are driving towards a point, then you should only take a detour if you know how it's going to get you to your point better.
+Every story should serve your point.  Every detour should get you where you are trying to go.  A good rule of thumb is, if you are driving towards a point, then you should only take a detour if you know how it's going to improve your point.
 
 Too many preachers routinely take every possible detour that comes their way, and this, like telling jokes and talking about trivial things, cheapens the sacredness of your message and communicates to your audience that you aren't that serious about it.
 
@@ -63,7 +63,7 @@ This is not to say that you can't tell stories.  You can even purposely seem lik
 
 As a preacher, everything about you communicates a message and everything about you should communicate that you are serious about your message.  This includes how you talk, how you dress and how you carry yourself.
 
-You need to imagine that people are always asking the question: "Can I take this person seriously?" Looking for any possible excuse to write off what you have to say.  So don't give them one.
+You need to imagine that people are always asking the question: "Can I take this person seriously?" People are looking for any possible excuse to write off what you have to say.  So don't give them an easy one by the way you talk, dress and carry yourself.
 
 I'm old enough that my doctors are starting to be significantly younger than me.  If I walked into a serious doctor's appointment and the doctor was wearing an anime hoodie and sweatpants, I'd probably turn on my heels and walk right out of there.  If my lawyer or my accountant couldn't speak without using bad grammar, again, I'm walking right out of there.  When serious business is happening, I want the people I'm working with to take it seriously.
 
