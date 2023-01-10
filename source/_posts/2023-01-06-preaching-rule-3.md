@@ -81,4 +81,4 @@ Paul felt an obvious burden (*necessity is laid upon me*) for preaching his mess
 
 One of the first times I ever preached in church, I remember hiding out in the bathroom right before the service, slightly sick to my stomach.  It wasn't so much that I was scared of public speaking.  I just felt an incredible burden to deliver the message God had given me.
 
-I have to hide before I preach, but I hope I never lose the burden and sense of seriousness about what I'm doing.  If I ever do, I'll do all I can to get it back, and if I can't, then it's probably time to do something else.
+I no longer have to hide before I preach, but I hope I never lose the burden and sense of seriousness about what I'm doing.  If I ever do, I'll do all I can to get it back, and if I can't, then it's probably time to do something else.
