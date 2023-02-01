@@ -12,8 +12,9 @@ I grew up in independent Baptist churches.  I went to an independent Baptist Bib
 Four years ago, my parents started attending a Bible church near where they live in New Hampshire.  It was the first time I'd ever really experienced anything other than the baptist church tradition that I grew up in.
 
 Now, this particular Bible church is VERY similar to the independent Baptist church I pastor:
+
 - They line up with our church doctrinally on almost everything (salvation, baptism, end times, etc.)
-- They preach expository messages out of the King James bible.
+- They preach expository messages out of the same bible.
 - They emphasize congregational singing and sing mostly older hymns.
 - The attenders dress respectfully.
 - They generously support missionaries and are evangelistic.
@@ -128,7 +129,7 @@ So who is the victor, the elders people or the single pastor people?  Here is my
 With that being said, here is why plural eldership is personally interesting to me:
 
 **I've seen the dark side of pastoral leadership.**  I've seen different churches where...
- 
+
 - the pastor had a moral failing and suddenly left the church pastorless.
 - the pastor abused the finances and ran up large debts.
 - the pastor had a dictatorial attitude and encouraged sycophantic behavior in his underlings.
