@@ -30,7 +30,7 @@ My assumption, up until that point, was that the weight of scripture clearly poi
 
 ## The biblical basis for the plural eldership
 
-There are about 15 references to elders (in the plural) in the New Testament church context.  If you exclude references to the "apostles and elders" in Jerusalem (because obviously that wasn't a normative situation) you are left with about ten or so references.  Here they are:
+There are about 15 references to elders (in the plural) in the New Testament church context.  If you exclude references to the "apostles and elders" in Jerusalem (because obviously that wasn't a normative situation) you are left with about seven references.  Here they are:
 
 > [Act 14:23 KJV] 23 And when they had ordained them elders in every church, and had prayed with fasting, they commended them to the Lord, on whom they believed.
 
