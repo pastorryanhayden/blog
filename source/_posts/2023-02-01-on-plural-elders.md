@@ -127,7 +127,8 @@ So who is the victor, the elders people or the single pastor people?  Here is my
 
 With that being said, here is why plural eldership is personally interesting to me:
 
-**I've experienced the dark side of pastoral leadership.**  In my lifetime I've been in different churches where 
+**I've seen the dark side of pastoral leadership.**  I've seen different churches where...
+ 
 - the pastor had a moral failing and suddenly left the church pastorless.
 - the pastor abused the finances and ran up large debts.
 - the pastor had a dictatorial attitude and encouraged sycophantic behavior in his underlings.
