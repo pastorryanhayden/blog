@@ -112,7 +112,7 @@ In every case I've ever personally encountered - when asked about single pastors
 
 > Every healthy organization has to have one leader.
 
-After all, there is a reason our country only has one president at a time.  There is a reason that companies don't have multiple CEOs.  Someone has to be the chief. 
+After all, (they say) there is a reason our country only has one president at a time.  There is a reason that companies don't have multiple CEOs.  Someone has to be the chief. 
 
 I've also heard many anecdotes made about stifling church growth and handcuffing pastoral leadership with too many committees. This isn't helped by the churches where the "elders" are basically a board of trustees selected because of how much they give.  
 
@@ -123,6 +123,7 @@ But you don't have to have an elder board to be handcuffed by committees.  The d
 
 So who is the victor, the elders people or the single pastor people?  Here is my take: **nobody.**  It's inconclusive.  Bible arguments could be made supporting both positions and neither argument should be dismissed out of hand.  **Neither the pastor-only, nor the elders crowd have room to be dogmatic on this.**  
 
+Personally, having looked at everything, I think biblically that the plural elders people have the better case.  But on a balance, it's super close.   Neither side has a slam dunk "well duh" kind of argument and neither side should put the other down.
 
 ## Closing Considerations
 
