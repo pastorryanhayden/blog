@@ -27,6 +27,7 @@ Some varieties of hobby horses I've encountered are:
 - The world is going to pot horse - where a preacher talks constantly about what is wrong with the world.
 - The hagiography horse - where the preachers spends time talking about how their preaching hero is/was the best.
 - The specific standard horse - where a preacher talks about a specific standard (like female dresses) all the time.
+- The politics horse (probably the most common type) - where the preacher breaks from his sermon to talk about how current events proves the party he is opposed to is bad and his candidates are good.
 
 Please note that I'm not saying that any of these things aren't *true* or even that there isn't an appropriate time to talk about them - only that there comes a point when it moves from practical doctrinal/practical lesson to odd pastoral obsession.  When this happens, usually the preacher is the last to notice.
 
