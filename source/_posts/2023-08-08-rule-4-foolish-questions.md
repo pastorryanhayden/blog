@@ -19,6 +19,7 @@ Preachers have a tendency to fall into ruts, and one of the deepest and most com
 Every preacher has a favorite subject, and often, that favorite subject gets more and more obscure as they age. There probably isn't a surer way to ensure that nearly everyone in the room checks out and starts daydreaming then talking about your obscure obsession *again.*
 
 Some varieties of hobby horses I've encountered are:
+
 - The bibliology horse - where a preacher talks all the time about the King James (whether for or against). 
 - The calvinism/anti-calvinism horse - where a a preacher gives considerable time to talking about what is right or wrong about calvinism/reformed theology.
 - The finer points of eschatology horse - where a preacher talks about the end times all the time, getting into detail about signs and seasons, pre vs mid vs post tribulation rapture, dispensationalism, etc..
