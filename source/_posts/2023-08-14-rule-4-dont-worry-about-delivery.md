@@ -95,7 +95,7 @@ But if typical speaking blunders like an occasional "um" or an incomplete senten
 - Some constantly clear their throat.
 - Some speakers even insert a phrase into every sentence like "to be able to" or "in everything and all."  
 
-These aren't the kind of bad habits that people will ignore.  These are the kind of habits that will drive your audience so mad they will refuse to listen to you.  In my opinion, these habits keep you form being "apt to teach" and disqualify you as a pastor.  So watch a recording of your speaking occasionally, or ask your wife to help you with this, or get a speaking mentor who will be brutally honest with you.   You have to kill these bad habits while you can.
+These aren't the kind of bad habits that people will ignore.  These are the kind of habits that will drive your audience so mad they will refuse to listen to you.  In my opinion, these habits keep you from being *"apt to teach"* (1 Timothy 3) and disqualify you as a pastor.  So watch a recording of your speaking occasionally, or ask your wife to help you with this, or get a speaking mentor who will be brutally honest with you.   You have to kill these bad habits while you can.
 
 ### Be yourself.
 
