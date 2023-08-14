@@ -1,6 +1,6 @@
 ---
 title: "Rules for preaching: don't worry about delivery"
-date: 2023-08-08
+date: 2023-08-14
 description: Focussing too much on sermon delivery is not helpful.
 extends: _layouts.post
 section: content
