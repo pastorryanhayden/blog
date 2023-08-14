@@ -64,13 +64,13 @@ Charles Spurgeon said that the golden key to keeping people's attention is to sa
 
 Have a point.  Know what you are going to say. Know how you are going to say it.  Don't veer off.  If you can do this, people will deal with whatever kind of delivery you have.  If you are boring and don't have good content, then no amount of yelling, running or juggling will keep people interested.
 
-McDonalds is one of the most slickly packaged experiences in the modern world.  They have beautiful buildings, animated video signs with some of the best food photography in the world, and constantly changing packaging.  In contrast, most of us know a hole-in-the wall restaurant with little to no decorations, standard food service tablecloths and plates, and almost no advertising whose food is amazing.  If time isn't an option, which would you rather go to.
+McDonalds is one of the most slickly packaged experiences in the modern world.  They have beautiful buildings, animated video signs with some of the best food photography in the world, and constantly changing packaging.  In contrast, most of us know a hole-in-the wall restaurant with little to no decorations, standard food service tablecloths and plates, and almost no advertising whose food is amazing.  If time isn't an option, which would you rather go to?
 
 Focus on content, not on presentation.  Focus on feeding people a good meal - and they will keep coming back for more.
 
 ### Respect the time and attention of the audience.
 
-Let's say you preach to 80 people every Sunday for 30 minutes.  That is not 30 minutes of people's life you are using. It is 40 hours of people's lives represented in the room.  If you are unprepared or you drone on (which is often a symptom of being unprepared) you are wasting people's time and often, they know it.
+Let's say you preach to 80 people every Sunday for 30 minutes.  That is not 30 minutes of people's life you are using. **It is 40 hours of people's lives represented in the room.**  If you are unprepared or you drone on (which is often a symptom of being unprepared) you are wasting people's time and often, they know it.
 
 Those people could be sleeping in, or out on a boat, or playing golf.  Instead they got up on one of their few days off to worship God and to hear a message from God's word.  Their time and attention is a gift.  **Do not waste their time.**
 
@@ -78,7 +78,8 @@ If people expect for you to preach to them for thirty minutes, you better have a
 
 My son has a plethora of health issues that force us to regularly drive two hours one way to the big city to go to specialists appointments.  Few things bother me more than when we go to one of these appointments and it is obvious the doctor is unprepared and uninterested.  It's incredibly frustrating to give up your precious time only to meet with someone who doesn't care enough to do their job well.  Do not do that to the people you are preaching to.
 
-If you are the type of arrogant preacher who feels his message is owed an audience, that is probably why you don't have one.    
+If you are the type of arrogant preacher who feels his message is owed an audience, that is probably why you don't have one.   
+
 ### Try to identify and eliminate bad speaking habits.
 
 Thus far, this article has been about how you shouldn't focus on your delivery, but that isn't to say that delivery doesn't matter at all.   There are bad speaking habits that can cause people to tune out of even a great message.  These need to be identified and eliminated.
@@ -104,13 +105,13 @@ There are, in my experience, two common causes for these transformations:  Some 
 
 I remember hearing a preacher once who went to the same school I did.  He had adopted almost all of the founder of our schools idiosyncrasies.  He even preached a message made famous by this other preacher.  It wasn't helpful, it felt like listening to a bad parody for thirty minutes.
 
-I've heard many people who speak clearly and normally transform into a screaming, voice clearing, amen calling camp meeting preacher when it's there time to preach.  Its as if the power for the message doesn't come from the word of God but from the camp meeting style they grew up listening to.  You begin to wander if they think the apostle Paul and Peter spoke in a southern accent, cleared their throat constantly, and shouted "can I get an amen?" over and over.
+I've heard many people who speak clearly and normally transform into a screaming, voice clearing, amen calling camp meeting preacher when it's there time to preach.  Its as if the power for the message doesn't come from the word of God but from the camp meeting style they grew up listening to.  You begin to wander if they think the apostle Paul and Peter spoke in an exagerated southern accent, cleared their throat constantly, and shouted "can I get an amen?" over and over.
 
-These amazing transformations are almost never an upgrade.  Rarely do they improve a person's ability to communicate.   Usually, they are a distraction and make the message seem less serious.  
+These transformations are almost never an upgrade.  Rarely do they improve a person's ability to communicate.   **A fake persona usually goes with a fake message.** These personality transformations are a distraction and make the message seem less serious.  
 
-The best preachers I know are the ones whose preaching persona matches their regular persona.  When they mount the pulpit and preach a message, it is like their personality comes alive and is magnified.  Their personalities don't change in the pulpit, they are just magnified.  They are very much themselves in the pulpit.  
+**The best preachers I know are the ones whose preaching persona matches their regular persona.**  When they mount the pulpit and preach a message, it is like their personality comes alive and is magnified.  Rather than changing when they preach, they become more of themselves in the pulpit.  
 
-God called you, with your speaking voice, your history and your mannerisms.  Be the best version of you, but be yourself.  It doesn't help your delivery at all to try to be anything else.
+God called **you**, with your speaking voice, your history and your mannerisms.  Be the best version of you, but be yourself.  It doesn't help your delivery at all to try to be anyone else.
 
 ### Look up.
 
