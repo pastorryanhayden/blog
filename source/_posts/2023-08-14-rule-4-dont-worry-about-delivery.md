@@ -14,7 +14,7 @@ The thing is, I didn’t notice, and neither did anyone else I asked about the s
 
 Sometimes, I'm prone to the same kind of self-consciousness about my deliivery.  I will preach a message and say something like “I really feel like I didn’t do a good job delivering that.” Usually, no one notices.
 
-There are at least three versions of every sermon: the one you prepared in the study, the one you preached and the one people heard.  Almost always, we are far more critical of the message we preach than the audience is.  What we perceive to be awful missteps, the audience doesn’t even notice. What is going on in our head and emotions when we preach a message rarely aligns with what the people see and hear.
+There are at least three versions of every sermon: the one you prepared in the study, the one you preached and the one people heard.  Almost always, **we are far more critical of the message we preach than the audience is.**  What we perceive to be awful missteps, the audience doesn’t even notice. What is going on in our head and emotions when we preach a message rarely aligns with what the people see and hear.
 
 As preachers, we all want to be good speakers.  We want to be polished, forceful, to have a certain *presence* in the pulpit.  Maybe we want to look and sound and have the same effect as some preacher hero we have.  If we aren’t careful, we can become obsessed with our delivery in an unhealthy way.
 
@@ -105,9 +105,9 @@ There are, in my experience, two common causes for these transformations:  Some 
 
 I remember hearing a preacher once who went to the same school I did.  He had adopted almost all of the founder of our schools idiosyncrasies.  He even preached a message made famous by this other preacher.  It wasn't helpful, it felt like listening to a bad parody for thirty minutes.
 
-I've heard many people who speak clearly and normally transform into a screaming, voice clearing, amen calling camp meeting preacher when it's there time to preach.  Its as if the power for the message doesn't come from the word of God but from the camp meeting style they grew up listening to.  You begin to wander if they think the apostle Paul and Peter spoke in an exagerated southern accent, cleared their throat constantly, and shouted "can I get an amen?" over and over.
+I've heard many people who speak clearly and normally transform into a screaming, voice clearing, amen calling camp meeting preacher when it's there time to preach.  It's as if the power for the message doesn't come from the word of God but from the camp meeting style they grew up listening to.  You begin to wander if they think the apostle Paul and Peter spoke in an exagerated southern accent, cleared their throat constantly, and shouted "Can I get an amen?" over and over.
 
-These transformations are almost never an upgrade.  Rarely do they improve a person's ability to communicate.   **A fake persona usually goes with a fake message.** These personality transformations are a distraction and make the message seem less serious.  
+These transformations are almost never an *upgrade*.  Rarely do they improve a person's ability to communicate.   **A fake persona usually goes with a fake message.** These personality transformations are a distraction and make the message seem less serious.  
 
 **The best preachers I know are the ones whose preaching persona matches their regular persona.**  When they mount the pulpit and preach a message, it is like their personality comes alive and is magnified.  Rather than changing when they preach, they become more of themselves in the pulpit.  
 
