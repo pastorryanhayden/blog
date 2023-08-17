@@ -1,7 +1,7 @@
 ---
 title: "The Church, Education and Credentialism"
 date: 2023-08-17
-description: Why conflating learning with schooling insn't helpful.
+description: Why conflating learning with schooling isn't helpful.
 extends: _layouts.post
 section: content
 categories: [preaching, ministry]
