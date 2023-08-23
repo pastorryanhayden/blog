@@ -45,7 +45,7 @@ Pastoral ministry is a leadership position.  Usually, the people who are drawn t
 
 As I age, I’m tempted to look around at other men my age who didn’t go into the ministry.  Men who have trained for and then stuck to a career and avoided common pitfalls like divorce and addiction.  In almost every case, those men are doing very well.  They are well paid.  They own nice homes.  
 
-When you are young and starting out in the ministry, you are more or less on equal footing with your peers.  Young people in the ministry are poor, but so are young people starting out in any profession.  As you approach middle age though, the gap widens a lot, and as you realize that, and as you realize what the decision to go into the ministry has cost you, it becomes a tough pill to swallow.
+When you are young and starting out in the ministry, you are more or less on equal footing with your peers.  Young people in the ministry are poor, but so are young people starting out in any profession.  As you approach middle age though, the gap widens a lot, and as you realize what the decision to go into the ministry has cost you, it becomes a tough pill to swallow.
 
 ## Trusted friends defect.
 
