@@ -13,7 +13,7 @@ Now, I’m a middle aged pastor, and while I hope I don’t give off the same pr
 
 # The pressures of being a middle-aged pastor
 
-There are pressures in every job, but there are particular pressures in being a pastor and those pressures start to take their tole on you in middle age.
+There are pressures in every job, but there are particular pressures in being a pastor and those pressures start to take their toll on you in middle age.
 
 ## People disappoint.
 
@@ -23,13 +23,13 @@ If a pastor is worth his salt, God really gives him a love for people, and when 
 
 When people leave the church or people attack you, it really hurts.  Maybe one reason pastors of a certain age have their guard up is because they’ve been hit in the face a few times and didn’t particularly enjoy the experience. 
 
-Years ago, I got close to a certain family in our church.  We went over each other’s houses.  We met their families.  We did sports together.  Then out of the blue, they said they "weren't being fed" and left the church. I’m ashamed to say that particular wound left me limping for years.  It still hurts.  Seeing my church grow and many more friends come in hasn’t made that particular scar go away.  
+Years ago, I got close to a certain family in our church.  We went over each other’s houses.  We met their extended families.  We hung out together.  Then out of the blue, they said they "weren't being fed" and left the church. I’m ashamed to say that particular wound left me limping for years.  It still hurts.  Seeing my church grow and many more friends come in hasn’t made that particular scar go away.  
 
 Knowing (as in this case) that the decision may have been better for that family and seeing them do well helps, but it doesn’t totally make the sting go away.  This is probably because pastors have a strong (and sometimes unhealthy) desire to see their church do well.  Being tied as we are with our churches, there is also a strong temptation to see any hint of rejection of our church as a rejection of us.  Many pastor’s self-esteem fluctuates in sync with their attendance report.
 
 Which leads me to another inner struggle of pastoral ministry...
 
-## Dreams don’t materialize
+## Dreams don’t materialize.
 
 Our church is hidden in a neighborhood, has a tiny auditorium and a terrible parking lot.  I remember when I came here 12 years ago I imagined in my hubris that in a few years we would be building a bigger building, maybe even moving to a better location.  But here we are, 12 years later, worshiping in the same small building, dealing with the same location and parking problems.
 
@@ -69,7 +69,7 @@ Three times each week, I write the equivalent of a well researched college resea
 
 Preaching is my calling and I wouldn't want to do anything else, but that doesn't mean it isn't consuming in a way many other endeavors are not.
 
-## It’s heavy on your family
+## It’s heavy on your family.
 
 Middle-aged pastors usually have kids who are teenagers and those kids get to experience everything else on this list with their dad.  When the pastor is hurt, it doesn't just effect him, it also effects his family.  Very often, pastor's kids grow to hate the ministry and want nothing to do with it.
 
@@ -81,7 +81,7 @@ Pastor's kids live under a microscope.  They are acutely aware (even if it's not
 
 Some mix of all of these things are usually present in a pastor's life, and if both he (and the church) aren't careful, they can make him unbearable and derail a church.  There are things that both the pastor and his church can do to combat this though:
 
-## How the pastor can help himself.
+## How the pastor can help himself:
 
 If you are a pastor, then there are things you must do to help yourself:
 
@@ -113,5 +113,5 @@ If you are not a pastor, the chances are, that your pastor struggling with one (
 - You can encourage your pastor to go to conferences and fellowships and spend time with likeminded brothers in Christ.
 - You can ensure that your pastor is getting plenty of rest and vacation.
 - Your deacons can do deacon's work, and try to take non-preaching and care responsibilities off of your pastor's plate.
-- You can encourage your pastor's family.
+- You can encourage your pastor's family and extend grace to his children.
 
