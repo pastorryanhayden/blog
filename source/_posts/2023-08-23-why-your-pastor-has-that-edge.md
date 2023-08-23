@@ -1,6 +1,6 @@
 ---
 title: "Why your pastor has that edge"
-date: 2023-08-17
+date: 2023-08-23
 description: The unique pressures of being a pastor, and what to do with them.
 extends: _layouts.post
 section: content
