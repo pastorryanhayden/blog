@@ -26,7 +26,7 @@ When people leave the church or people attack you, it really hurts.  Maybe one r
 
 Years ago, I got close to a certain family in our church.  We went over each other’s houses.  We met their extended families.  We hung out together.  Then out of the blue, they said they "weren't being fed" and left the church. I’m ashamed to say that particular wound left me limping for years.  It still hurts.  Seeing my church grow and many more friends come in hasn’t made that particular scar go away.  
 
-Knowing (as in this case) that the decision may have been better for that family and seeing them do well helps, but it doesn’t totally make the sting go away.  This is probably because pastors have a strong (and sometimes unhealthy) desire to see their church do well.  Being tied as we are with our churches, there is also a strong temptation to see any hint of rejection of our church as a rejection of us.  Many pastor’s self-esteem fluctuates in sync with their attendance report.
+Knowing (as in this case) that the decision may have been better for that family and seeing them do well helps, but it doesn’t totally make the sting go away.  This is probably because pastors have a strong (and sometimes unhealthy) desire to see their church do well.  Being tied as we are with our churches, there is also a strong temptation to see any hint of rejection of our church as a rejection of us.  Many pastors' self-esteem fluctuates in sync with their attendance report.
 
 Which leads me to another inner struggle of pastoral ministry...
 
@@ -72,9 +72,9 @@ Preaching is my calling and I wouldn't want to do anything else, but that doesn'
 
 ## It’s heavy on your family.
 
-Middle aged pastors usually have kids who are teenagers and those kids get to experience everything else on this list with their dad.  When the pastor is hurt, it doesn't just effect him, it also effects his family.  Very often, pastor's kids grow to hate the ministry and want nothing to do with it.
+Middle aged pastors usually have kids who are teenagers and those kids get to experience everything else on this list with their dad.  When the pastor is hurt, it doesn't just affect him, it also affects his family.  Very often, pastors' kids grow to hate the ministry and want nothing to do with it.
 
-Pastor's kids live under a microscope.  They are acutely aware (even if it's not explicitly said) that their behavior reflects on their dad and his ministry.  They know that what they wear and what they say will be judged in a way none of their peers will be.
+Pastors's kids live under a microscope.  They are acutely aware (even if it's not explicitly said) that their behavior reflects on their dad and his ministry.  They know that what they wear and what they say will be judged in a way none of their peers will be.
 
 ---
 
@@ -91,7 +91,7 @@ If you are a pastor, then there are things you must do to help yourself:
 So many of these pressures are tied to a model and view of ministry we unconsciously embrace as young men, where the people who really matter are the "great men" and where we strive to be like them and we think we do not matter unless we can build a big ministry.  But ministry isn't about building a big name for yourself, it is about ministry, about serving other people.  When we make it about ourselves it turns toxic and often ends in us using people instead of serving them.  Root out this weed wherever it pops up.
 ### Stay close to the Lord.
 
-Ministry is not a substitute for living the Christian life.  You must walk with the Lord just like you are encouraging other to.  You must learn to find your worth in Christ and not in what others think of you.  
+Ministry is not a substitute for living the Christian life.  You must walk with the Lord just like you are encouraging others to.  You must learn to find your worth in Christ and not in what others think of you.  
 ### Recognize and overcome the fear of man.
 
 Many of the pressures on this list have as their root cause a desire to be accepted and admired by others.  Nearly everyone struggles with this.  The answer to this is fearing God more.  As Ed Welsch writes in *When People are Big and God is Small* "When we have God in His proper place, we need people less and can love people more."   You have to get over yourself.  That's a tough hike, and a lot of preachers never make it.
@@ -104,7 +104,7 @@ Remember, we are called to be servants.  While the disciples sat around the tabl
 
 ## How you can help your pastor.
 
-If you are not a pastor, the chances are, that your pastor struggling with one (if not all) of these pressures.  The good news, is that there are things you can do that help:
+If you are not a pastor, the chances are, that your pastor is struggling with one (if not all) of these pressures.  The good news, is that there are things you can do that help:
 
 - You can faithfully attend services and listen actively to preaching.  This, more than anything else, will be an encouragement to your pastor.
 - You can find ways to help in the church and be faithful in them.
