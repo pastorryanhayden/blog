@@ -7,19 +7,20 @@ section: content
 categories: [preaching, ministry]
 cover_image: /assets/img/stress.jpg
 ---
-When I was a younger man I remember getting around middle-aged pastors and thinking “what is wrong with these people?”  Many of them seemed to have a chip on their shoulder.  The one’s I was around seemed a bit edgy.  As a group, middle aged pastors seemed guarded, inapproachable, grumpy, and obsessed with minutia.  I determined I didn’t want to be anything like that.
+
+When I was a younger man I remember getting around middle aged pastors and thinking “what is wrong with these people?”  Many of them seemed to have a chip on their shoulder.  The ones I was around seemed a bit edgy.  As a group, middle aged pastors seemed guarded, inapproachable, grumpy, and obsessed with minutia.  I determined I didn’t want to be anything like that.
 
 Now, I’m a middle aged pastor, and while I hope I don’t give off the same prickly vibes I saw in others as a young man, I think I now have a lot more insight into where they come from.  
 
-# The pressures of being a middle-aged pastor
+# The pressures of being a middle aged pastor
 
 There are pressures in every job, but there are particular pressures in being a pastor and those pressures start to take their toll on you in middle age.
 
 ## People disappoint.
 
-You shepherd people.  You love them.  You preach to them week in and out.  You help them through difficulties.  Then, when you do not expect it, they go away or attack.  
+You shepherd people.  You love them.  You preach to them week in and out.  You help them through difficulties.  Then when you do not expect it, they go away or attack.  
 
-If a pastor is worth his salt, God really gives him a love for people, and when they leave the church, or worse, when they abandon the faith or deal with life-altering consequences of sins - it hurts.  It’s almost like watching a child leave the family and go astray.  
+If a pastor is worth his salt, God really gives him a love for people, and when they leave the church, or worse, when they abandon the faith or deal with life altering consequences of sins, it hurts.  It’s almost like watching a child leave the family and go astray.  
 
 When people leave the church or people attack you, it really hurts.  Maybe one reason pastors of a certain age have their guard up is because they’ve been hit in the face a few times and didn’t particularly enjoy the experience. 
 
@@ -71,7 +72,7 @@ Preaching is my calling and I wouldn't want to do anything else, but that doesn'
 
 ## It’s heavy on your family.
 
-Middle-aged pastors usually have kids who are teenagers and those kids get to experience everything else on this list with their dad.  When the pastor is hurt, it doesn't just effect him, it also effects his family.  Very often, pastor's kids grow to hate the ministry and want nothing to do with it.
+Middle aged pastors usually have kids who are teenagers and those kids get to experience everything else on this list with their dad.  When the pastor is hurt, it doesn't just effect him, it also effects his family.  Very often, pastor's kids grow to hate the ministry and want nothing to do with it.
 
 Pastor's kids live under a microscope.  They are acutely aware (even if it's not explicitly said) that their behavior reflects on their dad and his ministry.  They know that what they wear and what they say will be judged in a way none of their peers will be.
 
