@@ -1,5 +1,5 @@
 ---
-title: "How Fundamentalism Sets Up Young Men for Disillusionment"
+title: "Kindle Scribe Review"
 date: 2023-08-26
 extends: _layouts.post
 section: content
