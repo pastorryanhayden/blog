@@ -1,4 +1,4 @@
-<div class="flex justify-center lg:-mx-12 my-12 p-6 md:px-12 bg-gray-200 border border-gray-400 text-sm md:rounded shadow">
+{{-- <div class="flex justify-center lg:-mx-12 my-12 p-6 md:px-12 bg-gray-200 border border-gray-400 text-sm md:rounded shadow">
     <div>
     <p class="text-xl font-bold text-center">Sign Up For My Weekly Newsletter</p>
     <div id="revue-embed">
@@ -22,7 +22,7 @@
   </form>
 </div>
 </div>
-</div>
+</div> --}}
 
 @push('scripts')
 
