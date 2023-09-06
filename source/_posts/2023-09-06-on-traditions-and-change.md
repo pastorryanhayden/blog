@@ -68,7 +68,7 @@ I think one of the best things we can do is to read the biographies and writings
 
 It is undeniable that our world is changing more rapidly than at any other time in human history.  The life of a man in the 1700s would not be all that different from the life of a man in the the 500s.  But since the 1900s our world has changed at breakneck pace.  Our culture has changed almost completely on some things even in the last 15 years.  (We forget that Obama would not support gay marriage when he was first elected in 2008; a position almost unimaginable today.)
 
-Some of those changes (like racism and air conditioning) are undeniably good.  Some of them (like free love, no-fault divorce and the LGBTQIA++ stuff) are undeniably anti-biblical and thus bad.  Most lie somewhere in the middle.  The challenge for us is deciding when and how to adapt to them.
+Some of those changes (like air conditioning and our attitudes toward racism) are undeniably good.  Some of them (like free love, no-fault divorce and the LGBTQIA++ stuff) are undeniably anti-biblical and thus bad.  Most lie somewhere in the middle.  The challenge for us is deciding when and how to adapt to them.
 
 I’m of the opinion that some cultural changes need to be recognized and adapted to, but that we tend to default to adapting to cultural changes too quickly and too haphazardly.  Especially in our churches, we should be obviously talking to people today and oriented toward the future, but we need wisdom for how, what, and when we adapt to the changing world around us.
 
